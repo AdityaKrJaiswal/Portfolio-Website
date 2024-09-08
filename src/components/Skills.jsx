@@ -3,9 +3,9 @@ import HTML from '../assets/Images/HTML.png';
 import CL from '../assets/Images/C++.png';
 import CSS from '../assets/Images/CSS.png';
 import JS from '../assets/Images/Javascript.png';
-import Reactjs from '../assets/Images/React Js.png';
+import Reactjs from '../assets/Images/ReactJs.png';
 import TailwindCss from '../assets/Images/Tailwind Css.png'
-import Node from '../assets/Images/Node JS.png';
+import Node from '../assets/Images/NodeJS.png';
 import Python from '../assets/Images/Python.png';
 import C from '../assets/Images/C.png'
 const skills = [
