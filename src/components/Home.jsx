@@ -26,7 +26,7 @@ const Home = () => {
                 </button>
             </div>
             <div className='md:w-1/2 md:ml-48 md:mt-18 mt-8 order-1'>
-                <img src="Images/photo1.jpg" alt="" className='md:w-[450px] md: h-[450px] md:rounded-full border-black md:shadow-md' />
+                <img src="Images/photo1.jpg" alt="" className=' md:w-[450px] md: h-[450px]  md:rounded-full border-black md:shadow-md' />
             </div>
         </div>
     </div>
