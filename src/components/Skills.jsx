@@ -1,37 +1,29 @@
 import React from 'react';
-import HTML from '../assets/Images/HTML.png';
-import CL from '../assets/Images/C++.png';
-import CSS from '../assets/Images/CSS.png';
-import JS from '../assets/Images/Javascript.png';
-import Reactjs from '../assets/Images/ReactJs.png';
-import TailwindCss from '../assets/Images/Tailwind Css.png'
-import Node from '../assets/Images/NodeJS.png';
-import Python from '../assets/Images/Python.png';
-import C from '../assets/Images/C.png'
+
 const skills = [
   {
     category: 'Frontend',
     skills: [
-      { name: 'HTML', logo: HTML },
-      { name: 'CSS', logo: CSS },
-      { name: 'JavaScript', logo: JS  },
-      { name: 'React JS', logo: Reactjs  },
-      { name: 'Tailwind CSS', logo: TailwindCss },
+      { name: 'HTML', logo: "Images/HTML.png" },
+      { name: 'CSS', logo: "Images/CSS.png" },
+      { name: 'JavaScript', logo: "Images/Javascript.png"  },
+      { name: 'React JS', logo:"Images/ReactJs.png"  },
+      { name: 'Tailwind CSS', logo: "Images/TailwindCss.png" },
     ],
   },
   {
     category: 'Backend',
     skills: [
-      { name: 'Node JS', logo: Node },
+      { name: 'Node JS', logo:"Images/NodeJS.png" },
     ],
   },
   {
     category: 'Programming Languages',
     skills: [
-      { name: 'C++', logo: CL },
-      { name: 'C', logo: C },
-      { name: 'Python', logo: Python },
-      { name: 'JavaScript', logo: JS },
+      { name: 'C++', logo: "Images/NodeJS.png" },
+      { name: 'C', logo: "Images/C.png" },
+      { name: 'Python', logo: "Images/Python.png" },
+      { name: 'JavaScript', logo: "Images/Javascript.png" },
     ],
   },
 ];
