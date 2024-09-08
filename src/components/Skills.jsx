@@ -20,7 +20,7 @@ const skills = [
   {
     category: 'Programming Languages',
     skills: [
-      { name: 'C++', logo: "Images/NodeJS.png" },
+      { name: 'C++', logo: "Images/C++.png" },
       { name: 'C', logo: "Images/C.png" },
       { name: 'Python', logo: "Images/Python.png" },
       { name: 'JavaScript', logo: "Images/Javascript.png" },
