@@ -1,7 +1,7 @@
 // src/components/Showcase.js
 import React from 'react';
 import Card from './Card';
-import anime from '../assets/Images/Anime.jpg';
+// import anime from '../assets/Images/Anime.jpg';
 
 const projects = [
   {
